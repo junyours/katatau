@@ -1,0 +1,37 @@
+@import url(https://fonts.bunny.net/css?family=quicksand:400,500,600,700);
+
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source '../**/*.blade.php';
+@source '../**/*.js';
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+@theme {
+    --animate-full-tl: full-tl 60s linear infinite;
+    --animate-full-tr: full-tr 60s linear infinite;
+
+    @keyframes full-tl {
+        0% {
+            transform: translateX(0);
+        }
+
+        100% {
+            transform: translateX(-200%);
+        }
+    }
+
+    @keyframes full-tr {
+        0% {
+            transform: translateX(0);
+        }
+
+        100% {
+            transform: translateX(200%);
+        }
+    }
+}
