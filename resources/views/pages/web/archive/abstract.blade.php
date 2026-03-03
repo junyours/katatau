@@ -12,7 +12,7 @@
   @endforeach
   <meta name="citation_publication_date"
     content="{{ \Carbon\Carbon::parse($journal->publication_date)->format('Y/m/d') }}">
-  <meta name="citation_journal_title" content="Diskurso International Multidisciplinary Research Journal">
+  <meta name="citation_journal_title" content="The Katatau Research and Development Journal">
   <meta name="citation_volume" content="{{ $journal->archive->volume }}">
   <meta name="citation_issue" content="{{ $journal->archive->issue }}">
   <meta name="citation_firstpage" content="{{ trim($firstpage) }}">

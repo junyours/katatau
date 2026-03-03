@@ -11,7 +11,7 @@
         <h2 class="font-semibold">{{ $position }}</h2>
         <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-2">
           @foreach ($group as $editor)
-            <div class="border border-slate-300 rounded-md">
+            <div class="border border-slate-300 rounded-md overflow-hidden">
               <img src="https://lh3.googleusercontent.com/d/{{ $editor->profile_picture }}" alt="{{ $editor->name }}"
                 class="object-cover w-full h-60">
               <div class="p-4 flex flex-col gap-2">

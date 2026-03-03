@@ -27,6 +27,7 @@
       <div class="space-y-4 w-full md:w-xs">
         @include('components.web.archive')
         @include('components.web.indexing')
+        @include('components.web.issn')
       </div>
     </div>
   </main>
