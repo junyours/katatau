@@ -4,7 +4,7 @@
   <div class="font-medium text-justify space-y-4">
     <h1 class="font-bold text-base border-b border-slate-300 pb-4">About the Publisher</h1>
     <div class="space-y-2">
-      <p>The The Katatau Research and Development Journal reflects the institution’s commitment of Tagoloan
+      <p>The The Katatau Research and Development Journal reflects the institution’s commitment of Opol
         Community College through the Center for Institutional Research Development to fostering cross-disciplinary
         research and facilitating academic exchange. As a respected publication, it provides a platform for scholars,
         researchers, and professionals from various fields to share their findings, insights, and innovations. This

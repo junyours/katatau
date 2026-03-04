@@ -1,10 +1,18 @@
 <footer class="border-t border-slate-300">
   <div class="mx-auto w-full max-w-6xl py-6 lg:py-8">
     <div class="md:flex md:justify-between">
-      <div class="mb-6 md:mb-0">
+      <div class="mb-6 md:mb-0 flex flex-col gap-4">
         <a href={{ route('home') }}>
           <img src={{ asset('images/logo.png') }} class="h-12" alt="logo" />
         </a>
+        <div class="flex items-center gap-2">
+          <a href="https://occ.edu.ph/" target="_blank">
+            <img src={{ asset('images/occ.png') }} class="size-20" alt="occ" />
+          </a>
+          <a href="#" target="_blank">
+            <img src={{ asset('images/occ-coop.png') }} class="size-20" alt="occ-coop" />
+          </a>
+        </div>
       </div>
       <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
         <div>
