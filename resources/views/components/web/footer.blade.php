@@ -5,14 +5,9 @@
         <a href={{ route('home') }}>
           <img src={{ asset('images/logo.png') }} class="h-12" alt="logo" />
         </a>
-        <div class="flex items-center gap-2">
-          <a href="https://occ.edu.ph/" target="_blank">
-            <img src={{ asset('images/occ.png') }} class="size-20" alt="occ" />
-          </a>
-          <a href="#" target="_blank">
-            <img src={{ asset('images/occ-coop.png') }} class="size-20" alt="occ-coop" />
-          </a>
-        </div>
+        <a href="https://occ.edu.ph/" target="_blank">
+          <img src={{ asset('images/occ.png') }} class="size-20" alt="occ" />
+        </a>
       </div>
       <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
         <div>
