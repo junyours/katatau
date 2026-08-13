@@ -22,7 +22,9 @@
           <h2 class="mb-6 text-sm font-medium uppercase">Contact us</h2>
           <ul class="text-slate-600 font-medium">
             <li class="mb-4">
-              <a href="mailto:ditads@infosheet.dev" target="_blank" class="hover:underline">ditads@infosheet.dev</a>
+              <a href="mailto:thekatatauresearchjournal@occ.edu.ph" target="_blank"
+                class="hover:underline">thekatatauresearchjournal@occ.edu.ph
+              </a>
             </li>
             <li class="mb-4">
               <a href="tel:+639171281320" target="_blank" class="hover:underline">+63 917 128 1320</a>

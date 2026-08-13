@@ -80,7 +80,7 @@
       <p>All in-text citations, footnotes/endnotes and the reference page must follow the guidelines of the Publication
         Manual of the American Psychological Association (APA) 7th Edition.</p>
     </div>
-    <p>All manuscripts can be submitted to (e-mail) <a href="mailto:ditads@infosheet.dev"
-        class="hover:underline text-blue-500">ditads@infosheet.dev</a></p>
+    <p>All manuscripts can be submitted to (e-mail) <a href="mailto:thekatatauresearchjournal@occ.edu.ph"
+        class="hover:underline text-blue-500">thekatatauresearchjournal@occ.edu.ph</a></p>
   </div>
 @endsection

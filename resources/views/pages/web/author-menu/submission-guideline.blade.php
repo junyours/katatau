@@ -318,9 +318,9 @@
       appreciate your patience and cooperation throughout the review
       and publication process. If you have any questions, feel free to
       reach out to our editorial office at R188 Metro Square, Zone 2,
-      Iponan, Cagayan de Oro City, or email us at <a href="mailto:ditads@infosheet.dev"
+      Iponan, Cagayan de Oro City, or email us at <a href="mailto:thekatatauresearchjournal@occ.edu.ph"
         class="text-blue-500 hover:underline">
-        ditads@infosheet.dev
+        thekatatauresearchjournal@occ.edu.ph
       </a>
     </p>
     <div class="space-y-2">
@@ -348,9 +348,9 @@
           We are committed to providing a smooth and clear process, and we
           appreciate your support in helping us maintain high standards of
           academic publishing. If you have any questions regarding the APC
-          or the payment process, please feel free to contact us at <a href="mailto:ditads@infosheet.dev"
+          or the payment process, please feel free to contact us at <a href="mailto:thekatatauresearchjournal@occ.edu.ph"
             class="text-blue-500 hover:underline">
-            ditads@infosheet.dev
+            thekatatauresearchjournal@occ.edu.ph
           </a>
         </p>
       </div>
@@ -494,9 +494,9 @@
     </div>
     <p>
       For any questions or further information about the
-      waiver/discount policy, please contact us at <a href="mailto:ditads@infosheet.dev"
+      waiver/discount policy, please contact us at <a href="mailto:thekatatauresearchjournal@occ.edu.ph"
         class="text-blue-500 hover:underline">
-        ditads@infosheet.dev
+        thekatatauresearchjournal@occ.edu.ph
       </a>
     </p>
     <div class="space-y-2">
@@ -632,8 +632,8 @@
     </div>
     <p>
       For any further questions or clarification about this policy,
-      please contact us at <a href="mailto:ditads@infosheet.dev" class="text-blue-500 hover:underline">
-        ditads@infosheet.dev
+      please contact us at <a href="mailto:thekatatauresearchjournal@occ.edu.ph" class="text-blue-500 hover:underline">
+        thekatatauresearchjournal@occ.edu.ph
       </a>
     </p>
   </div>

@@ -4,27 +4,38 @@
   <div class="font-medium text-justify space-y-4">
     <h1 class="font-bold text-base border-b border-slate-300 pb-4">About the Publisher</h1>
     <div class="space-y-2">
-      <p>The The Katatau Research and Development Journal reflects the institution’s commitment of Opol
-        Community College through the Center for Institutional Research Development to fostering cross-disciplinary
-        research and facilitating academic exchange. As a respected publication, it provides a platform for scholars,
-        researchers, and professionals from various fields to share their findings, insights, and innovations. This
-        journal is published by Zas Digital Institute Training and Development Services (DITADS). The journal focuses on
-        the dissemination of high-quality research spanning a broad array of disciplines, including but not limited to
-        economics, business management, public administration, and other related fields.</p>
+      <p>The Katatau Research and Development Journal reflects the commitment of Opol Community College, through the
+        Office of Research, Publication, and Extension, to fostering cross-disciplinary research and facilitating academic
+        exchange. As an academic publication of the College, it provides a platform for scholars, researchers, faculty
+        members, students, and professionals from various fields to share their findings, insights, and innovations. The
+        journal focuses on the dissemination of high-quality research spanning a broad range of disciplines, including but
+        not limited to economics, business management, public administration, education, social sciences, and other
+        related fields.</p>
       <p>
-        The journal serves as a vital resource for advancing knowledge and facilitating dialogue among researchers,
-        practitioners, and policymakers. By embracing interdisciplinary research, The Katatau Research and Development
-        Journal aims to address the complex
-        issues of today’s global society. It seeks to provide well-rounded solutions and perspectives by integrating ideas
-        from various sectors of knowledge, enabling more holistic approaches to solving contemporary challenges.
+        The journal serves as an important resource for advancing knowledge and facilitating dialogue among researchers,
+        practitioners, educators, policymakers, and other stakeholders. By embracing interdisciplinary research, the
+        Katatau Research and Development Journal aims to address complex issues affecting communities and society. It
+        seeks to provide well-rounded solutions and perspectives by integrating ideas from various fields of knowledge and
+        encouraging research that responds to contemporary challenges.
       </p>
       <p>
-        Through its rigorous peer-review process and commitment to academic excellence, the The Katatau Research and
-        Development Journal aims to contribute significantly to the global research community. The journal
-        offers valuable insights into contemporary challenges and solutions, pushing the boundaries of academic inquiry in
-        its focus areas. By providing a forum for the exchange of diverse ideas and research, it continues to promote
-        innovation, foster intellectual growth, and inspire new thinking across disciplines.
+        Through its rigorous peer-review process and commitment to academic excellence, the Katatau Research and
+        Development Journal aims to contribute to the research community. The journal provides valuable insights into
+        contemporary issues, innovations, and solutions while encouraging scholarly inquiry in its areas of focus. By
+        providing a forum for the exchange of diverse ideas and research, the journal promotes innovation, intellectual
+        growth, knowledge sharing, and evidence-based practices across disciplines.
       </p>
+      <p>Opol Community College is a higher education institution committed to advancing quality education, research,
+        innovation, community engagement, and professional development. Through the Office of Research, Publication, and
+        Extension, the College supports the conduct, dissemination, and utilization of research that contributes to
+        institutional development and addresses relevant community and societal concerns.
+        The publication of the Katatau Research and Development Journal forms part of the College's commitment to
+        strengthening its research culture and providing a scholarly platform for researchers and professionals to
+        disseminate their work. Through this initiative, Opol Community College promotes responsible research, academic
+        collaboration, knowledge generation, and the wider dissemination of research findings.
+        With its commitment to academic excellence and research development, the Katatau Research and Development Journal
+        serves as a platform for connecting researchers, practitioners, educators, and other stakeholders and for
+        promoting the exchange of knowledge and ideas at the local, national, and international levels.</p>
     </div>
     <div>
       <h1>Zas Digital Institute Training and Development Services (DITADS) is a duly registered entity under Philippine

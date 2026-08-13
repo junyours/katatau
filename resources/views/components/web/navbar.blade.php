@@ -31,8 +31,9 @@
       <div class="flex items-center gap-4">
         <div class="flex items-center gap-2">
           <i data-lucide="mail" class="size-5 text-[#AD0404]" stroke-width="1.5"></i>
-          <a href="mailto:ditads@infosheet.dev" target="_blank"
-            class="font-semibold hover:text-[#AD0404]">ditads@infosheet.dev</a>
+          <a href="mailto:thekatatauresearchjournal@occ.edu.ph" target="_blank"
+            class="font-semibold hover:text-[#AD0404]">thekatatauresearchjournal@occ.edu.ph
+          </a>
         </div>
         <div class="flex items-center gap-2">
           <i data-lucide="phone" class="size-5 text-[#AD0404]" stroke-width="1.5"></i>
@@ -91,7 +92,8 @@
           @endif
         @endforeach
       </ul>
-      <a href="mailto:ditads@infosheet.dev" target="_blank">
+      <a href="mailto:thekatatauresearchjournal@occ.edu.ph
+" target="_blank">
         <button type="button"
           class="whitespace-nowrap rounded-md bg-[#AD0404] border border-[#AD0404] px-4 py-2 font-semibold tracking-wide text-neutral-100 transition hover:opacity-75 text-center focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#AD0404] active:opacity-100 active:outline-offset-0 disabled:opacity-75 disabled:cursor-not-allowed">Submit
           Paper</button>

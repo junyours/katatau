@@ -8,8 +8,9 @@
       <div class="flex items-center justify-around gap-4 max-sm:flex-col">
         <div class="flex items-center gap-2">
           <i data-lucide="mail" class="size-5 text-[#AD0404]" stroke-width="1.5"></i>
-          <a href="mailto:ditads@infosheet.dev" target="_blank"
-            class="font-semibold hover:text-[#AD0404]">ditads@infosheet.dev</a>
+          <a href="mailto:thekatatauresearchjournal@occ.edu.ph" target="_blank"
+            class="font-semibold hover:text-[#AD0404]">thekatatauresearchjournal@occ.edu.ph
+          </a>
         </div>
         <div class="flex items-center gap-2">
           <i data-lucide="phone" class="size-5 text-[#AD0404]" stroke-width="1.5"></i>
