@@ -41,11 +41,8 @@
         </div>
         <div class="flex items-center gap-2">
           <i data-lucide="map-pin" class="size-5 text-[#AD0404]" stroke-width="1.5"></i>
-          <a href="https://maps.app.goo.gl/WLB5KaEyTygUozGJ9" target="_blank"
-            class="font-semibold hover:text-[#AD0404]">Metro
-            Square R118
-            Zone 2, Iponan,
-            CDO City</a>
+          <a href="https://maps.app.goo.gl/e2Syk6rLJSMnfDLP7" target="_blank"
+            class="font-semibold hover:text-[#AD0404]">C. Salva St., Poblacion, Opol, Misamis Oriental</a>
         </div>
       </div>
     </div>

@@ -37,21 +37,7 @@
         serves as a platform for connecting researchers, practitioners, educators, and other stakeholders and for
         promoting the exchange of knowledge and ideas at the local, national, and international levels.</p>
     </div>
-    <div>
-      <h1>Zas Digital Institute Training and Development Services (DITADS) is a duly registered entity under Philippine
-        law, demonstrating its commitment to transparency and compliance with the necessary legal frameworks. The
-        organization operates with the following official credentials:</h1>
-      <p><span class="font-semibold">• Business Permit No.:</span> BP-33229</p>
-      <p><span class="font-semibold">• Certificate No.:</span> 2019-25829</p>
-      <p><span class="font-semibold">• DTI Certificate of Business Registration No.:</span> 1033992</p>
-      <p><span class="font-semibold">• Philgeps No:</span> 201910-17877-1307663177</p>
-      <p><span class="font-semibold">• NBDB No.:</span> 7515</p>
-    </div>
     <div class="space-y-2">
-      <p>DITADS is located at R188 Metro Square, Zone 2 Iponan, Cagayan de Oro City. These registrations underscore the
-        legitimacy and compliance of the journal with Philippine business regulations, ensuring full transparency,
-        accountability, and adherence to legal frameworks.</p>
-      <p>
         With its well-established credentials and adherence to national and international standards, The Katatau Research
         and Development Journal stands as a
         cornerstone for academic excellence, bridging diverse fields of study and facilitating a global exchange of
